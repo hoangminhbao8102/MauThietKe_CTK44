@@ -1,0 +1,15 @@
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.csproj.AssemblyReference.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.AssemblyInfoInputs.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.AssemblyInfo.cs
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.csproj.CoreCompileInputs.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.exe
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.deps.json
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.runtimeconfig.json
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.pdb
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\refint\DoFactory.GangOfFour.Prototype.RealWorld.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.pdb
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Prototype.RealWorld.genruntimeconfig.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Prototype.RealWorld\obj\Debug\net6.0\ref\DoFactory.GangOfFour.Prototype.RealWorld.dll

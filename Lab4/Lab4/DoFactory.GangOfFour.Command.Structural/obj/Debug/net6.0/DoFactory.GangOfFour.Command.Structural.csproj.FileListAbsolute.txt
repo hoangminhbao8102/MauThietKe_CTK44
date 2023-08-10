@@ -1,0 +1,5 @@
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Command.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Command.Structural.csproj.AssemblyReference.cache
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Command.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Command.Structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Command.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Command.Structural.AssemblyInfoInputs.cache
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Command.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Command.Structural.AssemblyInfo.cs
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Command.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Command.Structural.csproj.CoreCompileInputs.cache

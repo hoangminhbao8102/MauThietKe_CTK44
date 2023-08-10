@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoFactory.GangOfFour.Composite.Structural/1.0.0": {
+        "runtime": {
+          "DoFactory.GangOfFour.Composite.Structural.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoFactory.GangOfFour.Composite.Structural/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

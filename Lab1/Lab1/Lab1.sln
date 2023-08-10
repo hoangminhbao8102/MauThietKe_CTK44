@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoFactory.GangOfFour.Abstract.Structural", "DoFactory.GangOfFour.Abstract.RealWorld\DoFactory.GangOfFour.Abstract.Structural.csproj", "{06911664-4B34-4E58-8766-1817A54D9697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Abstract.RealWorld", "DoFactory.GangOfFour.Abstract.RealWorld2\DoFactory.GangOfFour.Abstract.RealWorld.csproj", "{0B7F564A-B1E7-4263-816F-63887AF1D216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Builder.Structural", "DoFactory.GangOfFour.Builder.Structural\DoFactory.GangOfFour.Builder.Structural.csproj", "{4CA4C678-1AFF-41C1-93B4-F8F5EF254749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Factory.Structural", "DoFactory.GangOfFour.Factory.Structural\DoFactory.GangOfFour.Factory.Structural.csproj", "{82B7E8E7-26B6-4EC2-BA5A-189A7FE6A4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Factory.RealWorld", "DoFactory.GangOfFour.Factory.RealWorld\DoFactory.GangOfFour.Factory.RealWorld.csproj", "{7BF22479-AF0E-4F51-B7A2-FCB7C2338209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Prototype.Structural", "DoFactory.GangOfFour.Prototype.Structural\DoFactory.GangOfFour.Prototype.Structural.csproj", "{892D7EF4-EC7A-43FC-8324-FBDCC6F9711C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Prototype.RealWorld", "DoFactory.GangOfFour.Prototype.RealWorld\DoFactory.GangOfFour.Prototype.RealWorld.csproj", "{4C312A63-42E5-47E9-83EF-EFB35E5C032C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Singleton.Structural", "DoFactory.GangOfFour.Singleton.Structural\DoFactory.GangOfFour.Singleton.Structural.csproj", "{99100AE0-DC2B-4420-A7A4-3A6A1ABD1D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactory.GangOfFour.Singleton.RealWorld", "DoFactory.GangOfFour.Singleton.RealWorld\DoFactory.GangOfFour.Singleton.RealWorld.csproj", "{A731138E-0021-462C-9D38-7A1300D4DB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06911664-4B34-4E58-8766-1817A54D9697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06911664-4B34-4E58-8766-1817A54D9697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06911664-4B34-4E58-8766-1817A54D9697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06911664-4B34-4E58-8766-1817A54D9697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7F564A-B1E7-4263-816F-63887AF1D216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7F564A-B1E7-4263-816F-63887AF1D216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7F564A-B1E7-4263-816F-63887AF1D216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7F564A-B1E7-4263-816F-63887AF1D216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA4C678-1AFF-41C1-93B4-F8F5EF254749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA4C678-1AFF-41C1-93B4-F8F5EF254749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA4C678-1AFF-41C1-93B4-F8F5EF254749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA4C678-1AFF-41C1-93B4-F8F5EF254749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B7E8E7-26B6-4EC2-BA5A-189A7FE6A4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B7E8E7-26B6-4EC2-BA5A-189A7FE6A4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B7E8E7-26B6-4EC2-BA5A-189A7FE6A4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B7E8E7-26B6-4EC2-BA5A-189A7FE6A4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF22479-AF0E-4F51-B7A2-FCB7C2338209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF22479-AF0E-4F51-B7A2-FCB7C2338209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF22479-AF0E-4F51-B7A2-FCB7C2338209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF22479-AF0E-4F51-B7A2-FCB7C2338209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892D7EF4-EC7A-43FC-8324-FBDCC6F9711C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892D7EF4-EC7A-43FC-8324-FBDCC6F9711C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892D7EF4-EC7A-43FC-8324-FBDCC6F9711C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892D7EF4-EC7A-43FC-8324-FBDCC6F9711C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C312A63-42E5-47E9-83EF-EFB35E5C032C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C312A63-42E5-47E9-83EF-EFB35E5C032C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C312A63-42E5-47E9-83EF-EFB35E5C032C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C312A63-42E5-47E9-83EF-EFB35E5C032C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99100AE0-DC2B-4420-A7A4-3A6A1ABD1D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99100AE0-DC2B-4420-A7A4-3A6A1ABD1D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99100AE0-DC2B-4420-A7A4-3A6A1ABD1D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99100AE0-DC2B-4420-A7A4-3A6A1ABD1D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A731138E-0021-462C-9D38-7A1300D4DB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A731138E-0021-462C-9D38-7A1300D4DB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A731138E-0021-462C-9D38-7A1300D4DB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A731138E-0021-462C-9D38-7A1300D4DB90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0B9AA4-2AD6-430E-BD5E-094B5B6A08A0}
+	EndGlobalSection
+EndGlobal

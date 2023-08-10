@@ -1,0 +1,15 @@
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.exe
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.deps.json
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.runtimeconfig.json
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.dll
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.pdb
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.csproj.AssemblyReference.cache
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.AssemblyInfoInputs.cache
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.AssemblyInfo.cs
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.csproj.CoreCompileInputs.cache
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.dll
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\refint\DoFactory.GangOfFour.Facade.RealWorld.dll
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.pdb
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Facade.RealWorld.genruntimeconfig.cache
+D:\MauThietKe\Lab3\Lab3\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\net6.0\ref\DoFactory.GangOfFour.Facade.RealWorld.dll

@@ -1,0 +1,15 @@
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.exe
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.deps.json
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.runtimeconfig.json
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.pdb
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.csproj.AssemblyReference.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.AssemblyInfoInputs.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.AssemblyInfo.cs
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.csproj.CoreCompileInputs.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\refint\DoFactory.GangOfFour.Factory.RealWorld.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.pdb
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.RealWorld.genruntimeconfig.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\net6.0\ref\DoFactory.GangOfFour.Factory.RealWorld.dll

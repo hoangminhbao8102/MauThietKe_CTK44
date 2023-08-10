@@ -1,0 +1,15 @@
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.exe
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.deps.json
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.runtimeconfig.json
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\bin\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.pdb
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.csproj.AssemblyReference.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.GeneratedMSBuildEditorConfig.editorconfig
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.AssemblyInfoInputs.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.AssemblyInfo.cs
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.csproj.CoreCompileInputs.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\refint\DoFactory.GangOfFour.Factory.Structural.dll
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.pdb
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\DoFactory.GangOfFour.Factory.Structural.genruntimeconfig.cache
+D:\MauThietKe\Lab1\Lab1\DoFactory.GangOfFour.Factory.Structural\obj\Debug\net6.0\ref\DoFactory.GangOfFour.Factory.Structural.dll

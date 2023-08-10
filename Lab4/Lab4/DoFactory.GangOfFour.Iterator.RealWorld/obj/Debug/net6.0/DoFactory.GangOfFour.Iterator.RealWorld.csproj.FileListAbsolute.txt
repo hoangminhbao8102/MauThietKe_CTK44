@@ -1,0 +1,15 @@
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.exe
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.deps.json
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.runtimeconfig.json
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.dll
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\bin\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.pdb
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.csproj.AssemblyReference.cache
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.AssemblyInfoInputs.cache
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.AssemblyInfo.cs
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.csproj.CoreCompileInputs.cache
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.dll
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\refint\DoFactory.GangOfFour.Iterator.RealWorld.dll
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.pdb
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\DoFactory.GangOfFour.Iterator.RealWorld.genruntimeconfig.cache
+E:\MauThietKe\Lab4\Lab4\DoFactory.GangOfFour.Iterator.RealWorld\obj\Debug\net6.0\ref\DoFactory.GangOfFour.Iterator.RealWorld.dll
